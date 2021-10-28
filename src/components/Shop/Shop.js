@@ -88,7 +88,7 @@ const Shop = () => {
                 }}
                 key={number}
               >
-                {number}
+                {number + 1}
               </button>
             ))}
             <button
